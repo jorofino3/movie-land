@@ -8,6 +8,7 @@ const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
       </div>
 
       <div>
+        {/* place holder image  */}
         <img src={Poster !== "N/A" ? Poster : "https://via.placeholder.com/400"} alt={Title} />
       </div>
 
