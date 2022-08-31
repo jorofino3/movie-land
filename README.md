@@ -16,7 +16,7 @@
 
   ![npm](https://img.shields.io/npm/v/immer.svg)
   ![Build Status](https://travis-ci.org/immerjs/immer.svg?branch=master)  <!-- update these -->
-  ![Coverage Status](https://coveralls.io/repos/github/mweststrate/immer/badge.svg?branch=master) <!-- update these -->
+  [![wakatime](https://wakatime.com/badge/github/jorofino3/movie-land.svg)](https://wakatime.com/badge/github/jorofino3/movie-land)
   ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
 
