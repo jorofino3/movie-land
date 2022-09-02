@@ -27,10 +27,8 @@
 ## :star2: About the Project
   
 This is fully developed with React and CSS
-
 - 👨‍💻 &nbsp;This uses React components, hooks, state, and JSX
-- :movie_camera: &nbsp;Integration of [IMDb movie database api] (https://imdb-api.com/) 
-
+- :movie_camera: &nbsp; Integration of [IMDb movie database api](https://imdb-api.com/)
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -63,10 +61,10 @@ Start the server
 ## :handshake: Contact
 <div>
   </a> </br>
-<a href="https://www.linkedin.com/in/joeyorofino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
-  
-<a href="mailto:jorofino3@gatech.edu">
-  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
-<a/>
-    
+    <a href="https://www.linkedin.com/in/joeyorofino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+
+  <a href="mailto:jorofino3@gatech.edu">
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
+  <a/>
+
   </div>
